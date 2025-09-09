@@ -145,7 +145,7 @@
     "@vercel/functions": "^2",
     "@vercel/speed-insights": "^1.1.0",
     "ahooks": "^3.8.4",
-    "ai": "^3.4.33",
+    "ai": "^5.0.0",
     "antd": "^5.23.0",
     "antd-style": "^3.7.1",
     "brotli-wasm": "^3.0.1",
